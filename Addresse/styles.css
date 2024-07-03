@@ -1,0 +1,15 @@
+body {
+    font-family: monospace;
+    padding: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#address {
+    margin-top: 20px;
+    font-style: italic;
+}
